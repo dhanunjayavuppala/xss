@@ -1,8 +1,8 @@
 {
-    "url": "https://dhanunjayavuppala.github.io/xss/xss.json",
+    "url": "https://dhanunjayavuppala.github.io/xss/xss.yaml",
     "urls": [
         {
-            "url": "https://dhanunjayavuppala.github.io/xss/xss.json",
+            "url": "https://dhanunjayavuppala.github.io/xss/xss.yaml",
             "name": "Foo"
         }
     ]
